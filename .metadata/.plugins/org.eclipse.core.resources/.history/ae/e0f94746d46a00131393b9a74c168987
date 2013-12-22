@@ -1,0 +1,11 @@
+package org.blenderhead.chapter3;
+
+//This program will not compile
+public class ScopeErr {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

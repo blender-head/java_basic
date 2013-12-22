@@ -1,0 +1,10 @@
+package org.blenderhead.chapter3;
+
+public class Promote {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package org.blenderhead.chapter3;
+
+//Demonstrate block scope.
+public class Scope {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

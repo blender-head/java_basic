@@ -1,0 +1,11 @@
+package org.blenderhead.chapter3;
+
+//Average an array of values.
+public class Average {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

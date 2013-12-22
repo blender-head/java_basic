@@ -1,0 +1,11 @@
+package org.blenderhead.chapter3;
+
+//Demonstrate dynamic initialization.
+public class DynInit {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

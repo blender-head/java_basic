@@ -1,0 +1,11 @@
+package org.blenderhead.chapter3;
+
+//Compute distance light travels using long variables.
+public class Light {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

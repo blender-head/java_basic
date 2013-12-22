@@ -1,0 +1,11 @@
+package org.blenderhead.chapter3;
+
+//Demonstrate boolean values.
+public class BoolTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package org.blenderhead.chapter3;
+
+//Compute the area of a circle.
+public class Area {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

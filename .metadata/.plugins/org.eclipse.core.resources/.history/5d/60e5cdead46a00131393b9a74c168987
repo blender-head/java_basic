@@ -1,0 +1,11 @@
+package org.blenderhead.chapter3;
+
+//Initialize a two-dimensional array.
+public class Matrix {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
