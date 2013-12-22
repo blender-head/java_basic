@@ -1,0 +1,13 @@
+package org.blenderhead.chapter1;
+
+/*
+	Demonstrate a block of code.	
+*/
+public class BlockTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

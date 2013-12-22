@@ -1,0 +1,14 @@
+package org.blenderhead.chapter1;
+
+/*
+	Demonstrate the for loop.
+*/
+
+public class ForTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
