@@ -1,0 +1,11 @@
+package org.blenderhead.chapter4;
+
+//Demonstrate the % operator.
+public class Modulus {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

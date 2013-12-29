@@ -1,0 +1,11 @@
+package org.blenderhead.chapter4;
+
+//Unsigned shifting a byte value.
+public class ByteUShift {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

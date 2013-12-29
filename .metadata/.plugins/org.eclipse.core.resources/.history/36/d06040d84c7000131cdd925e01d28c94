@@ -1,0 +1,11 @@
+package org.blenderhead.chapter4;
+
+//Masking sign extension.
+public class HexByte {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

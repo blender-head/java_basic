@@ -1,0 +1,10 @@
+package org.blenderhead.chapter4;
+
+public class HexByte {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

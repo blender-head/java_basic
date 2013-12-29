@@ -1,0 +1,11 @@
+package org.blenderhead.chapter4;
+
+//Demonstrate the basic arithmetic operators.
+public class BasicMath {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
