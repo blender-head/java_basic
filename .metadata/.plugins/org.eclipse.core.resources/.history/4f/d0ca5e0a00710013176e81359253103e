@@ -1,0 +1,11 @@
+package org.blenderhead.chapter5;
+
+//Parts of the for loop can be empty.
+public class ForVar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

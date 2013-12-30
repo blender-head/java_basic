@@ -1,0 +1,11 @@
+package org.blenderhead.chapter5;
+
+//Search an array using for-each style for.  
+public class Search {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

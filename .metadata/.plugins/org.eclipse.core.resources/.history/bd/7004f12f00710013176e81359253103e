@@ -1,0 +1,11 @@
+package org.blenderhead.chapter5;
+
+//Use break with a for-each style for.
+public class ForEach2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

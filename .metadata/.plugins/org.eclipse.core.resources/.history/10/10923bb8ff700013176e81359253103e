@@ -1,0 +1,11 @@
+package org.blenderhead.chapter5;
+
+//Demonstrate the for loop.
+public class ForTick {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

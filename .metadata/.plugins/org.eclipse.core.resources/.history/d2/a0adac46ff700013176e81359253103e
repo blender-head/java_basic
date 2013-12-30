@@ -1,0 +1,11 @@
+package org.blenderhead.chapter5;
+
+//Demonstrate the do-while loop.
+public class DoWhile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

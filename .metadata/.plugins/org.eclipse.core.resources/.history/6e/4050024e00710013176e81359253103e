@@ -1,0 +1,11 @@
+package org.blenderhead.chapter5;
+
+//The for-each loop is essentially read-only. 
+public class NoChange {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

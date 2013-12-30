@@ -1,0 +1,11 @@
+package org.blenderhead.chapter5;
+
+//Using break to exit a loop.
+public class BreakLoop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

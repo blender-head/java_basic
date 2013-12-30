@@ -1,0 +1,11 @@
+package org.blenderhead.chapter5;
+
+//Using a do-while to process a menu selection -- a simple help system.
+public class DoWhile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
