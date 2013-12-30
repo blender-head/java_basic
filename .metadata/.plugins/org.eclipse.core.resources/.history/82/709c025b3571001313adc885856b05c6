@@ -1,0 +1,13 @@
+package org.blenderhead.chapter6;
+
+//This program includes a method inside the box class.
+
+
+public class BoxDemo3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

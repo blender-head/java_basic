@@ -1,0 +1,12 @@
+package org.blenderhead.chapter6;
+
+//Now, volume() returns the volume of a box.
+
+public class BoxDemo4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

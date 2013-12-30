@@ -1,0 +1,13 @@
+package org.blenderhead.classes;
+
+public class Box {
+	public double width;
+	public double height;
+	public double depth;
+	
+	// display volume of a box
+	public void volume() {
+	    System.out.print("Volume is ");
+	    System.out.println(width * height * depth);
+	  }
+}

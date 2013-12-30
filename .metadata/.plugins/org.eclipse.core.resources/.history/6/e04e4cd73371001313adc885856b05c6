@@ -1,0 +1,11 @@
+package org.blenderhead.chapter6;
+
+//This class declares an object of type Box
+public class BoxDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

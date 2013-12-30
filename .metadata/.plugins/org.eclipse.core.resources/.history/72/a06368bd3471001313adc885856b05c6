@@ -1,0 +1,27 @@
+package org.blenderhead.classes;
+
+public class Box {
+	public double width;
+	public double height;
+	public double depth;
+	
+	// This is the constructor for Box.
+	public Box() {
+	    System.out.println("Constructing Box");
+	    width = 10;
+	    height = 10;
+	    depth = 10;
+	}
+	
+	// compute and return volume
+	public double volume() {
+		return width * height * depth;
+	}
+	
+	// sets dimensions of box
+	public void setDim(double w, double h, double d) {
+	    this.width = w;
+	    this.height = h;
+	    this.depth = d;
+	}
+}
