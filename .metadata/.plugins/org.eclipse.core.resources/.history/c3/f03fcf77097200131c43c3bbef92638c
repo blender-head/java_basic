@@ -1,0 +1,44 @@
+package org.blenderhead.chapter8;
+
+//Dynamic Method Dispatch
+class J {
+	void callme() {
+		System.out.println("Inside A's callme method");
+	}
+}
+
+class K extends J {
+	// override callme()
+	void callme() {
+		System.out.println("Inside B's callme method");
+	}
+}
+
+class L extends K {
+	// override callme()
+	void callme() {
+		System.out.println("Inside C's callme method");
+	}
+}
+
+public class Dispatch {
+
+	public static void main(String[] args) {
+
+		J j = new J(); // object of type J
+	    K k = new K(); // object of type K
+	    L l = new L(); // object of type L
+	    J r; // obtain a reference of type J    
+
+	    r = j; // r refers to an J object
+	    r.callme(); // calls A's version of callme
+
+	    r = b; // r refers to a B object
+	    r.callme(); // calls B's version of callme
+
+	    r = c; // r refers to a C object
+	    r.callme(); // calls C's version of callme
+
+	}
+
+}

@@ -1,0 +1,31 @@
+package org.blenderhead.chapter8;
+
+//Dynamic Method Dispatch
+class J {
+	void callme() {
+		System.out.println("Inside A's callme method");
+	}
+}
+
+class K extends J {
+	// override callme()
+	void callme() {
+		System.out.println("Inside B's callme method");
+	}
+}
+
+class L extends K {
+	// override callme()
+	void callme() {
+		System.out.println("Inside C's callme method");
+	}
+}
+
+public class Dispatch {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

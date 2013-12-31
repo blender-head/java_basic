@@ -1,0 +1,28 @@
+package org.blenderhead.chapter8;
+
+class O {
+  final void meth() {
+    System.out.println("This is a final method.");
+  }
+}
+
+class P extends O {
+  /*
+  void meth() { // ERROR! Can't override.
+    System.out.println("Illegal!");
+  }
+  */
+}
+
+final class Q {
+  // ...
+}
+
+// The following class is illegal.
+class R extends Q { // ERROR! Can't subclass A
+  // ...
+}
+	
+public class FinalDemo {
+
+}
