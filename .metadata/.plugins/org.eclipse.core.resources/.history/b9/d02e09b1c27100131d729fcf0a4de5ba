@@ -1,0 +1,11 @@
+package org.blenderhead.chapter7;
+
+//Varargs and overloading. 
+public class VarArgs3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

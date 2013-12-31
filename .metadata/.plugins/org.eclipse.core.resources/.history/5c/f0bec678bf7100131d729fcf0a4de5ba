@@ -1,0 +1,18 @@
+package org.blenderhead.chapter7;
+
+//Simple Types are passed by value.
+class Test {
+void meth(int i, int j) {
+ i *= 2;
+ j /= 2;
+}
+}
+
+public class CallByValue {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

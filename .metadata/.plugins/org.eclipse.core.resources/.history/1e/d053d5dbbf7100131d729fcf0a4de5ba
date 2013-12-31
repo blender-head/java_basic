@@ -1,0 +1,24 @@
+package org.blenderhead.chapter7;
+
+//Returning an object.
+class Test4 {
+	int a;
+	
+	Test4(int i) {
+	 a = i;
+	}
+	
+	Test4 incrByTen() {
+	 Test4 temp = new Test4(a+10);
+	 return temp;
+	}
+}
+
+public class RetOb {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

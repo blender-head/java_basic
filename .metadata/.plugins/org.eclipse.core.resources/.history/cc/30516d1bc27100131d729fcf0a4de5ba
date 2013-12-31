@@ -1,0 +1,12 @@
+package org.blenderhead.chapter7;
+
+//Use an array to pass a variable number of 
+//arguments to a method.
+public class PassArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
