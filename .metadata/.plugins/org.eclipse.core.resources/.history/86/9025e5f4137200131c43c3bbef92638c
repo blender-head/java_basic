@@ -1,0 +1,11 @@
+package org.blenderhead.chapter11;
+
+//Demonstrate a autoboxing/unboxing.
+public class AutoBox {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

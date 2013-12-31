@@ -1,0 +1,11 @@
+package org.blenderhead.chapter11;
+
+//An error produced by manual unboxing. 
+public class UnboxingError {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

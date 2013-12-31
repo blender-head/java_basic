@@ -1,0 +1,11 @@
+package org.blenderhead.chapter11;
+
+//Autoboxing/unboxing occurs inside expressions. 
+public class AutoBox3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

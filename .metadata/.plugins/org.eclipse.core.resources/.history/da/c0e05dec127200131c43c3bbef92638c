@@ -1,0 +1,15 @@
+package org.blenderhead.chapter11;
+
+//An enumeration of apple varieties. 
+enum Apple {  
+Jonathan, GoldenDel, RedDel, Winesap, Cortland 
+} 
+
+public class EnumDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package org.blenderhead.chapter11;
+
+//Use the built-in enumeration methods. 
+
+//An enumeration of apple varieties. 
+enum Apples {  
+	Jonathan, GoldenDel, RedDel, Winesap, Cortland 
+} 
+
+public class EnumDemo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
