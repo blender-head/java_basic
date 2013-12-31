@@ -1,0 +1,12 @@
+package org.blenderhead.chapter13;
+import java.io.*;
+
+//Demonstrate PrintWriter
+public class PrintWriterDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package org.blenderhead.chapter13;
+
+import java.io.*;
+
+//A tiny editor.
+public class TinyEdit {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package org.blenderhead.chapter13;
+
+//Demonstrate System.out.write().
+public class WriteDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

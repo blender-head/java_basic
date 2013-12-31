@@ -1,0 +1,27 @@
+package org.blenderhead.chapter13;
+
+//Demonstrate instanceof operator.
+class A {
+int i, j;
+}
+
+class B {
+int i, j;
+}
+
+class C extends A {
+int k;
+}
+
+class D extends A {
+int k;
+}
+
+public class InstanceOf {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
