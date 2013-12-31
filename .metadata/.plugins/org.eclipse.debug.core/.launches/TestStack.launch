@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Chapter_6/src/org/blenderhead/chapter6/TestStack.java"/>
+<listEntry value="/Chapter_06/src/org/blenderhead/chapter6/TestStack.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.blenderhead.chapter6.TestStack"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Chapter_6"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Chapter_06"/>
 </launchConfiguration>

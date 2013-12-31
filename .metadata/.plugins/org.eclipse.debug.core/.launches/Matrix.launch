@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Chapter_3/src/org/blenderhead/chapter3/Matrix.java"/>
+<listEntry value="/Chapter_03/src/org/blenderhead/chapter3/Matrix.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.blenderhead.chapter3.Matrix"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Chapter_3"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Chapter_03"/>
 </launchConfiguration>
