@@ -1,0 +1,13 @@
+package org.blenderhead.chapter10;
+
+//Handle an exception and move on.
+import java.util.Random;
+
+public class HandleError {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

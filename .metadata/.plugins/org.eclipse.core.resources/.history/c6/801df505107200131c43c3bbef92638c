@@ -1,0 +1,22 @@
+package org.blenderhead.chapter10;
+
+//Demonstrate exception chaining.
+public class ChainExcDemo {
+	
+	static void demoproc() {
+	    // create an exception
+	    NullPointerException e = 
+	      new NullPointerException("top layer");
+	  
+	    // add a cause
+	    e.initCause(new ArithmeticException("cause"));
+
+	    throw e;
+	  }
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package org.blenderhead.chapter10;
+
+/* Try statements can be implicitly nested via calls to methods. */
+public class MethNestTry {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
