@@ -1,0 +1,10 @@
+package org.blenderhead.chapter14;
+
+public class NonGenDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
