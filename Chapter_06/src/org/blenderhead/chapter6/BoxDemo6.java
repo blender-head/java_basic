@@ -4,7 +4,8 @@ package org.blenderhead.chapter6;
  * Here, Box uses a constructor to initialize the dimensions of a box.
  */
 
-class Box6 {
+class Box6 
+{
 	double width;
 	double height;
 	double depth;
@@ -19,15 +20,16 @@ class Box6 {
 	}
 
 	// compute and return volume
-	double volume() {
+	double volume() 
+	{
 		return width * height * depth;
 	}
 }
 
-public class BoxDemo6 {
-
-	public static void main(String[] args) {
-
+public class BoxDemo6 
+{
+	public static void main(String[] args) 
+	{
 		// declare, allocate, and initialize Box objects
 	    Box6 mybox1 = new Box6();
 	    Box6 mybox2 = new Box6();

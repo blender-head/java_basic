@@ -1,17 +1,21 @@
 package org.blenderhead.chapter7;
 
 //Demonstrate an inner class.
-class Outer {
+class Outer 
+{
 	int outer_x = 100;
 	
-	void test() {
+	void test() 
+	{
 		Inner inner = new Inner();
 		inner.display();
 	}
 	
-	// this is an innner class
-	class Inner {
-		 void display() {
+	// this is an inner class
+	class Inner 
+	{
+		 void display() 
+		 {
 		   System.out.println("display: outer_x = " + outer_x);
 		 }
 	}

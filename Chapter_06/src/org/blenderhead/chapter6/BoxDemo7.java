@@ -1,8 +1,8 @@
 package org.blenderhead.chapter6;
 
 /* Here, Box uses a parameterized constructor to initialize the dimensions of a box. */
-
-class Box7 {
+class Box7 
+{
 	double width;
 	double height;
 	double depth;
@@ -22,10 +22,10 @@ class Box7 {
 	}
 }
 
-public class BoxDemo7 {
-
-	public static void main(String[] args) {
-
+public class BoxDemo7 
+{
+	public static void main(String[] args) 
+	{
 		// declare, allocate, and initialize Box objects
 	    Box7 mybox1 = new Box7(10, 20, 15);
 	    Box7 mybox2 = new Box7(3, 6, 9);

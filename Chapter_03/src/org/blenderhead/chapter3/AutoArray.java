@@ -1,6 +1,6 @@
 package org.blenderhead.chapter3;
 
-//An improvied version of the previous program.
+//An improvised version of the previous program.
 public class AutoArray {
 
 	public static void main(String[] args) {

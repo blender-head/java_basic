@@ -2,7 +2,8 @@ package org.blenderhead.chapter6;
 
 //This program includes a method inside the Box3 class.
 
-class Box3 {
+class Box3 
+{
 	  double width;
 	  double height;
 	  double depth;
@@ -15,9 +16,10 @@ class Box3 {
 	  }
 }
 
-public class BoxDemo3 {
-
-	public static void main(String[] args) {
+public class BoxDemo3 
+{
+	public static void main(String[] args) 
+	{
 
 		Box3 mybox1 = new Box3();
 	    Box3 mybox2 = new Box3();

@@ -1,45 +1,55 @@
 package org.blenderhead.chapter8;
 
 //Using abstract methods and classes.
-abstract class Figure2 {
+abstract class Figure2 
+{
 	double dim1;
 	double dim2; 
 	
-	Figure2(double a, double b) {
-	 dim1 = a;
-	 dim2 = b;
+	Figure2(double a, double b) 
+	{
+		dim1 = a;
+		dim2 = b;
 	}
 	
 	// area is now an an abstract method 
 	abstract double area();
 }
 
-class Rectangle2 extends Figure2 {
-	Rectangle2(double a, double b) {
+class Rectangle2 extends Figure2 
+{
+	Rectangle2(double a, double b) 
+	{
 		super(a, b);
 	}
 	
 	// override area for rectangle
-	double area() {
+	double area() 
+	{
 		 System.out.println("Inside Area for Rectangle.");
 		 return dim1 * dim2;
 	}
 }
 
-class Triangle2 extends Figure2 {
-	Triangle2(double a, double b) {
+class Triangle2 extends Figure2 
+{
+	Triangle2(double a, double b) 
+	{
 		super(a, b);
 	}
 	
 	// override area for right triangle
-	double area() {
+	double area() 
+	{
 		 System.out.println("Inside Area for Triangle.");
 		 return dim1 * dim2 / 2;
 	}
 }
-public class AbstractAreas {
 
-	public static void main(String[] args) {
+public class AbstractAreas 
+{
+	public static void main(String[] args) 
+	{
 
 		// Figure2 f = new Figure2(10, 10); // illegal now
 	    Rectangle2 r = new Rectangle2(9, 5);

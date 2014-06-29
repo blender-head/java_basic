@@ -10,10 +10,12 @@ public class Search {
 	    boolean found = false;  
 	 
 	    // use for-each style for to search nums for val  
-	    for(int x : nums) {  
-	      if(x == val) {  
-	        found = true;  
-	        break;  
+	    for(int x : nums) 
+	    {  
+	      if(x == val) 
+	      {  
+	    	  found = true;  
+	    	  break;  
 	      }  
 	    }  
 	  

@@ -1,15 +1,18 @@
 package org.blenderhead.chapter6;
 
-class Box {
+class Box 
+{
 	double width;
 	double height;
 	double depth;
 }
 
 //This class declares an object of type Box.
-public class BoxDemo {
+public class BoxDemo 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 
 		Box mybox = new Box();
 	    double vol;

@@ -2,15 +2,17 @@ package org.blenderhead.chapter6;
 
 //This program declares two Box objects.
 
-class Box2 {
+class Box2 
+{
 	double width;
 	double height;
 	double depth;
 }
 
-public class BoxDemo2 {
-
-	public static void main(String[] args) {
+public class BoxDemo2 
+{
+	public static void main(String[] args) 
+	{
 
 		Box2 mybox1 = new Box2();
 	    Box2 mybox2 = new Box2();
@@ -21,8 +23,10 @@ public class BoxDemo2 {
 	    mybox1.height = 20;
 	    mybox1.depth = 15;
 
-	    /* assign different values to mybox2's
-	       instance variables */
+	    /* 
+	     * assign different values to mybox2's
+	     * instance variables 
+	    */
 	    mybox2.width = 3;
 	    mybox2.height = 6;
 	    mybox2.depth = 9;

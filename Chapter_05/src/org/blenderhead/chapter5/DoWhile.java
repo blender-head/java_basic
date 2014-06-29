@@ -7,9 +7,10 @@ public class DoWhile {
 
 		int n = 10;
 
-	    do {
-	      System.out.println("tick " + n);
-	      n--;
+	    do 
+	    {
+	    	System.out.println("tick " + n);
+	    	n--;
 	    } while(n > 0);
 
 	}

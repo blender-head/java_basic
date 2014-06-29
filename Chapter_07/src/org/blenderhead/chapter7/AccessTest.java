@@ -1,7 +1,7 @@
 package org.blenderhead.chapter7;
 
 /* This program demonstrates the difference between
-public and private.
+   public and private.
 */
 class Test5 {
 	int a; // default access
@@ -12,6 +12,7 @@ class Test5 {
 	void setc(int i) { // set c's value
 	 c = i;
 	}
+	
 	int getc() { // get c's value
 	 return c;
 	}

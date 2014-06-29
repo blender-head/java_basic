@@ -4,8 +4,8 @@ package org.blenderhead.chapter5;
 public class ForTick {
 
 	public static void main(String[] args) {
-
-		 int n;
+		
+		int n;
 
 	    for(n=10; n>0; n--)
 	    {
